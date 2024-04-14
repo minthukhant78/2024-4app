@@ -3,6 +3,7 @@
     "name": "2024-4",
     "slug": "2024-4",
     "version": "1.0.0",
+    "scheme": "your-app-scheme",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
